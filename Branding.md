@@ -1,8 +1,10 @@
 We are building an approachable, clean and modern tool. Our branding was carefully selected to reflect this. This page details these choices and should be used as a reference for developers and marketers alike when styling components or seeking media branding kits respectively.
 
 ## Logo
-
-
+### Logo with text
+![Logo with text](https://github.com/hippyhood/webiterate/blob/wiki/assets/wiki/logo-with-text.png)
+### Logo without text
+![Logo without text](https://github.com/hippyhood/webiterate/blob/wiki/assets/wiki/logo-no-text.png)
 
 ## Fonts
 
