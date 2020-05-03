@@ -1,5 +1,3 @@
-# Welcome to webiterate!
-
 ## Introduction
 Webiterate is an initiative to develop and showcase emerging web technologies through experiments that can be explored and tracked on our [explorer]() page. It's goal is to:
 * forward open, creative exploration of web technologies.
