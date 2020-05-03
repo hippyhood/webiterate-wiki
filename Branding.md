@@ -6,7 +6,7 @@ We are building an approachable, clean and modern tool. Our branding was careful
 ### Logo without text
 ![Logo without text](https://github.com/hippyhood/webiterate/blob/wiki/assets/wiki/logo-no-text.png)
 ### Logo only text
-![Logo only text](https://github.com/hippyhood/webiterate/blob/wiki/assets/wiki/logo-only-text.png =250x)
+<img src="https://github.com/hippyhood/webiterate/blob/wiki/assets/wiki/logo-only-text.png" width="48" alt="Logo only text">
 
 ## Fonts
 
