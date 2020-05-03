@@ -2,11 +2,15 @@ We are building an approachable, clean and modern tool. Our branding was careful
 
 ## Logo
 ### Logo with text
-<img src="https://github.com/hippyhood/webiterate/blob/wiki/assets/wiki/logo-with-text.png" width="128" alt="Logo with text">
+<img src="https://github.com/hippyhood/webiterate/blob/wiki/assets/wiki/logo-with-text.png" width="128" 
+alt="Logo with text">
+
 ### Logo without text
 <img src="https://github.com/hippyhood/webiterate/blob/wiki/assets/wiki/logo-no-text.png" width="128" alt="Logo without text">
+
 ### Logo only text
-<img src="https://github.com/hippyhood/webiterate/blob/wiki/assets/wiki/logo-only-text.png" width="128" alt="Logo only text">
+<img src="https://github.com/hippyhood/webiterate/blob/wiki/assets/wiki/logo-only-text.png" width="128" 
+alt="Logo only text">
 
 ## Fonts
 
