@@ -25,7 +25,7 @@ alt="Logo only text">
 
 | colours | hex code |
 |---------|----------|
-| dark purple | #481380|
-| light purple | #7f78d2|
-| dark pink | #efb1ff|
-| salmon | #ffe2ff|
+| primary | #481380|
+| secondary | #7f78d2|
+| accent | #efb1ff|
+| bodyBg | #ffe2ff|
